@@ -1,6 +1,6 @@
 # OOP PHP Examples
 
-Questa repository raccoglie alcuni esempi di programmazione orientata agli oggetti in PHP, e proviene dall'introduzione al PHP nel corso Fullstack Dev che sto frequentando in data 09-11-2025.
+Questa repository raccoglie alcuni esempi di programmazione orientata agli oggetti in PHP.
 L’obiettivo è mostrare in modo semplice e pratico come funzionano concetti fondamentali come classi, ereditarietà, polimorfismo e costruttori. 
 Nel primo esempio viene definita una classe generica chiamata Animale, che rappresenta le caratteristiche comuni come nome, specie, peso e habitat. Da questa classe derivano Cane e Gatto, che ridefiniscono il metodo verso per restituire rispettivamente “Abbaia” e “Miagola”. 
 
